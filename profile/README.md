@@ -1,6 +1,9 @@
 # TreeOrg Tutorial: Setting Up a Custom Project with OpenRemote
 
 Welcome to the TreeOrg tutorial! In this guide, we will show you how to set up and customize a project using OpenRemote to meet the specific needs of TreeOrg, a forward-thinking company dedicated to urban forestry management.
+
+[![Introduction Fontys and OpenRemote]([http://img.youtube.com/vi/2Qn-CU5kKS4/0.jpg](https://github.com/FontysOpenRemote/.github/assets/11444149/d4c96ef4-4cf7-4956-b6b7-255e6b5e8537))](https://www.youtube.com/watch?v=2Qn-CU5kKS4)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Setting Up the Development Environment](#step-2-setting-up-your-development-environment)
