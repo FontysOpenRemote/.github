@@ -23,6 +23,20 @@ TreeOrg is an innovative company specializing in the maintenance and care of lar
 However, managing the logistics of routing service personnel efficiently from one tree to another poses a significant challenge. As the company grows and the number of trees under management increases, the need for an automated solution to optimize service routes has become apparent. TreeOrg seeks to integrate their system with navigation tools like Google Maps to enable their workers to find the targeted trees quickly and follow the most efficient routes possible.
 
 This tutorial will guide you through setting up a custom project in OpenRemote that not only captures and processes data from IoT sensors but also interfaces with navigation software to streamline the workflow of field personnel. By the end of this guide, you will have a robust system designed to enhance the operational efficiency of tree servicing tasks in urban environments.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=2Qn-CU5kKS4" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/2Qn-CU5kKS4/0.jpg" alt="Watch the video">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=2Qn-CU5kKS4" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <button style="background-color: #1a73e8; color: white; border: none; padding: 10px 20px; text-align: center; font-size: 16px; cursor: pointer; border-radius: 5px;">Watch the Video</button>
+  </a>
+</p>
+
+
 ## Prerequisites
 Before starting, ensure you have the following installed:
 - [Git](https://git-scm.com/)
